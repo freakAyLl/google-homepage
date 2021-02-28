@@ -1,5 +1,5 @@
 # google-homepage
-##Live preview:
+Live preview:
 
 https://freakayll.github.io/google-homepage/
 
